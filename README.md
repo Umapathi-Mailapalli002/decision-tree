@@ -31,7 +31,7 @@ The Decision Tree application is a user-friendly tool designed to recommend pers
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd DecisionTree
+   cd decision tree
    ```
 3. **Open `index.html` in Your Browser**:
    - Double-click on `index.html`.
