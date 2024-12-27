@@ -1,4 +1,4 @@
-# Decision Tree
+# Travel Decision Tree
 
 ## Overview
 The Decision Tree application is a user-friendly tool designed to recommend personalized travel destinations based on user preferences. By answering a series of questions, users receive tailored travel suggestions along with visual references to make their decision-making process easier and more enjoyable.
